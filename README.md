@@ -2,8 +2,7 @@
 
 I am a sophmore at the McKevley School of Engineering at Washington University in St. Louis majoring in Computer Science.
 
-
-✉️  You can contact me at danielcranney@gmail.com
+✉️  You can contact me at d.ran@wustl.edu
 
 ### Skills
 <p align="left">
