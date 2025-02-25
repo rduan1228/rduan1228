@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Ran Duan
 
-I am a sophmore at the McKevley School of Engineering at Washington University in St. Louis majoring in Computer Science.
+I am a junior at the McKevley School of Engineering at Washington University in St. Louis double majoring in Computer Science and Statistics.
 
 ✉️  You can contact me at d.ran@wustl.edu
 
