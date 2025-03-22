@@ -16,9 +16,13 @@ I am a junior at the McKevley School of Engineering at Washington University in 
 
 <h4>Ranked 1st out of 21 teams in the interactive media track with “Flap-a-bear,” an immersive game educating players about space debris, utilizing Arduino-based controls and Processing. In this game, you are an astronaut navigating the space while collecting space debris. Players have the ability to control the astronaut's position by interacting with an Arduino-based control system.</h4>
 
-https://www.youtube.com/watch?v=EVi_R4rAVEo&ab_channel=winstonwu
-
 [![Watch the video](https://img.youtube.com/vi/EVi_R4rAVEo/0.jpg)](https://www.youtube.com/watch?v=EVi_R4rAVEo)
+
+### 📱 WashU Health Resource App
+
+Led a team of 6 students to design and build a mobile app that organizes WashU’s health resources. I optimized user flow and iteratively refined high-fidelity designs using Figma based on user feedback, then implemented the app using Adalo.  
+
+🔗 [View App Preview](https://previewer.adalo.com/195e54cc-ab94-490e-8f18-b0f64eb02dc1)
 
 
 ### Skills
