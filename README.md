@@ -12,7 +12,7 @@ I am a junior at the McKevley School of Engineering at Washington University in 
 
 <h4></h4>
 
-https://youtu.be/XzQUHhrlAA8?si=qZmtNuHLcIbDfjnC
+[![Watch the video](https://img.youtube.com/vi/XzQUHhrlAA8/0.jpg)](https://youtu.be/XzQUHhrlAA8?si=KBxj8bfzf0VnBk7g)
 
 <a href="">Repo</a>
 
