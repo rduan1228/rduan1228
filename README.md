@@ -6,6 +6,13 @@ I am a junior at the McKevley School of Engineering at Washington University in 
 
 ## Cool Projects I've Done Recently
 
+### 🧠 Diffusion Models for MRI-to-CT Image Translation with Uncertainty Quantification — Work in progress
+
+This project investigates conditional diffusion models for translating MRI to CT images, incorporating uncertainty quantification to assess prediction confidence. 
+![image](https://github.com/user-attachments/assets/0fd61d29-03ab-4514-8450-15a825c92841)
+
+
+
 ### 👉 KnoWhiz Landing Page
 
 A responsive landing page built during my internship at Knowhiz using React, JavaScript, and CSS. It highlights the brand and key features with a clean, user-friendly design. 
