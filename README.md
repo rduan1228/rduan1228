@@ -8,7 +8,7 @@ I am a junior at the McKevley School of Engineering at Washington University in 
 
 ### 👉 KnoWhiz Landing Page
 
-A responsive landing page built during my internship at Knowwhiz using React, JavaScript, and CSS. It highlights the brand and key features with a clean, user-friendly design.
+A responsive landing page built during my internship at Knowhiz using React, JavaScript, and CSS. It highlights the brand and key features with a clean, user-friendly design.
 
 [![Watch the video](https://img.youtube.com/vi/XzQUHhrlAA8/0.jpg)](https://youtu.be/XzQUHhrlAA8?si=KBxj8bfzf0VnBk7g)
 
