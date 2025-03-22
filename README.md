@@ -9,8 +9,7 @@ I am a junior at the McKevley School of Engineering at Washington University in 
 ### 🧠 Diffusion Models for MRI-to-CT Image Translation with Uncertainty Quantification — Work in progress
 
 This project investigates conditional diffusion models for translating MRI to CT images, incorporating uncertainty quantification to assess prediction confidence. 
-![image](https://github.com/user-attachments/assets/0fd61d29-03ab-4514-8450-15a825c92841)
-
+![dc4229baf12d7afffd54fe4452f58bc0](https://github.com/user-attachments/assets/0f6777a0-7673-4e05-9064-5ed8cafb58cc)
 
 
 ### 👉 KnoWhiz Landing Page
