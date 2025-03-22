@@ -12,11 +12,13 @@ A responsive landing page built during my internship at Knowhiz using React, Jav
 
 [![Watch the video](https://img.youtube.com/vi/XzQUHhrlAA8/0.jpg)](https://youtu.be/XzQUHhrlAA8?si=KBxj8bfzf0VnBk7g)
 
-### 👉 Flap-a-bear
 
-Ranked 1st out of 21 teams in the interactive media track with “Flap-a-bear,” an immersive game educating players about space debris, utilizing Arduino-based controls and Processing. In this game, you are an astronaut navigating the space while collecting space debris. Players have the ability to control the astronaut's position by interacting with an Arduino-based control system.
+### 🧸 Flap-a-Bear – A Flappy Bird-Inspired Game with Arduino Controls  
+
+Ranked **1st out of 21 teams** in the Interactive Media track with *Flap-a-Bear*, an immersive arcade-style game that educates players about space debris. Built using **Processing** and an **Arduino-based control system**, players guide an astronaut through space, collecting debris and avoiding obstacles. The astronaut's movement is controlled via physical interactions with custom Arduino hardware, blending digital gameplay with tangible interaction.
 
 [![Watch the video](https://img.youtube.com/vi/EVi_R4rAVEo/0.jpg)](https://www.youtube.com/watch?v=EVi_R4rAVEo)
+
 
 ### 📱 WashU Health Resource App
 
