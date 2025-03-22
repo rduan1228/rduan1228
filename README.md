@@ -10,7 +10,9 @@ I am a junior at the McKevley School of Engineering at Washington University in 
 
 A responsive landing page built during my internship at Knowhiz using React, JavaScript, and CSS. It highlights the brand and key features with a clean, user-friendly design.
 
-[![Watch the video](https://yourdomain.com/your-thumbnail-with-play.png)](https://youtu.be/XzQUHhrlAA8?si=KBxj8bfzf0VnBk7g)
+[![Watch the video](https://img.youtube.com/vi/XzQUHhrlAA8/0.jpg)](https://youtu.be/XzQUHhrlAA8?si=KBxj8bfzf0VnBk7g)
+
+**Click the image above to watch the video!**
 
 
 ### 🧸 Flap-a-Bear – A Flappy Bird-Inspired Game with Arduino Controls  
