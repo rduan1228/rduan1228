@@ -1,8 +1,26 @@
-### Hi 👋 My name is Ran Duan
+## Hi 👋 My name is Ran Duan
 
 I am a junior at the McKevley School of Engineering at Washington University in St. Louis double majoring in Computer Science and Statistics.
 
 ✉️  You can contact me at d.ran@wustl.edu
+
+## Cool Projects I've Done Recently
+
+### 👉 KnoWhiz Landing Page
+
+<h4></h4>
+
+<h4></h4>
+
+https://youtu.be/XzQUHhrlAA8?si=qZmtNuHLcIbDfjnC
+
+<a href="">Repo</a>
+
+### 👉 
+
+<h4></h4>
+
+
 
 ### Skills
 <p align="left">
