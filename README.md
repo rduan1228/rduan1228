@@ -16,10 +16,13 @@ I am a junior at the McKevley School of Engineering at Washington University in 
 
 <a href="">Repo</a>
 
-### 👉 
+### 👉 Flap-a-bear
 
-<h4></h4>
+<h4>Ranked 1st out of 21 teams in the interactive media track with “Flap-a-bear,” an immersive game educating players about space debris, utilizing Arduino-based controls and Processing. In this game, you are an astronaut navigating the space while collecting space debris. Players have the ability to control the astronaut's position by interacting with an Arduino-based control system.</h4>
 
+https://www.youtube.com/watch?v=EVi_R4rAVEo&ab_channel=winstonwu
+
+[![Watch the video](https://img.youtube.com/vi/EVi_R4rAVEo/0.jpg)](https://www.youtube.com/watch?v=EVi_R4rAVEo)
 
 
 ### Skills
