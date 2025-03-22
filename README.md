@@ -9,6 +9,7 @@ I am a junior at the McKevley School of Engineering at Washington University in 
 ### 👉 KnoWhiz Landing Page
 
 A responsive landing page built during my internship at Knowhiz using React, JavaScript, and CSS. It highlights the brand and key features with a clean, user-friendly design. 
+
 **Click the image below to watch the video!**
 
 [![Watch the video](https://img.youtube.com/vi/XzQUHhrlAA8/0.jpg)](https://youtu.be/XzQUHhrlAA8?si=KBxj8bfzf0VnBk7g)
@@ -18,6 +19,7 @@ A responsive landing page built during my internship at Knowhiz using React, Jav
 ### 🧸 Flap-a-Bear – A Flappy Bird-Inspired Game with Arduino Controls  
 
 Ranked **1st out of 21 teams** in the Interactive Media track with *Flap-a-Bear*, an immersive arcade-style game that educates players about space debris. Built using **Processing** and an **Arduino-based control system**, players guide an astronaut through space, collecting debris and avoiding obstacles. The astronaut's movement is controlled via physical interactions with custom Arduino hardware, blending digital gameplay with tangible interaction.
+
 **Click the image below to watch the video!**
 
 [![Watch the video](https://img.youtube.com/vi/EVi_R4rAVEo/0.jpg)](https://www.youtube.com/watch?v=EVi_R4rAVEo)
